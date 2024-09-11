@@ -1,0 +1,6 @@
+requests
+BeautifulSoup4
+datetime
+art
+colorama
+validators
